@@ -127,11 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="commentItem.cpp" />
+    <ClCompile Include="commentItem.h" />
     <ClCompile Include="cow.h" />
+    <ClCompile Include="forms.h" />
+    <ClCompile Include="Item.h" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Bee.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>
