@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "luck_homewest", "luck_homewest\luck_homewest.vcxproj", "{B0BBDBA7-58EA-4698-BF74-9666E407AB06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0BBDBA7-58EA-4698-BF74-9666E407AB06}.Debug|x64.ActiveCfg = Debug|x64
+		{B0BBDBA7-58EA-4698-BF74-9666E407AB06}.Debug|x64.Build.0 = Debug|x64
+		{B0BBDBA7-58EA-4698-BF74-9666E407AB06}.Debug|x86.ActiveCfg = Debug|Win32
+		{B0BBDBA7-58EA-4698-BF74-9666E407AB06}.Debug|x86.Build.0 = Debug|Win32
+		{B0BBDBA7-58EA-4698-BF74-9666E407AB06}.Release|x64.ActiveCfg = Release|x64
+		{B0BBDBA7-58EA-4698-BF74-9666E407AB06}.Release|x64.Build.0 = Release|x64
+		{B0BBDBA7-58EA-4698-BF74-9666E407AB06}.Release|x86.ActiveCfg = Release|Win32
+		{B0BBDBA7-58EA-4698-BF74-9666E407AB06}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4341B8D4-9AF6-47FA-8EF5-291EFC94774A}
+	EndGlobalSection
+EndGlobal
