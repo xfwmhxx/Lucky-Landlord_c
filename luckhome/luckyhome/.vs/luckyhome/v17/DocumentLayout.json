@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\luckhome\\luckyhome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Thing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Thing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Props.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Props.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Essence.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Essence.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Thing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Thing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Essence.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Essence.h",
+              "RelativeDocumentMoniker": "luckyhome\\Essence.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Essence.h",
+              "RelativeToolTip": "luckyhome\\Essence.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-04T14:24:01.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Props.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Props.h",
+              "RelativeDocumentMoniker": "luckyhome\\Props.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Props.h",
+              "RelativeToolTip": "luckyhome\\Props.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-04T14:23:47.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Thing.cpp",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Thing.cpp",
+              "RelativeDocumentMoniker": "luckyhome\\Thing.cpp",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Thing.cpp",
+              "RelativeToolTip": "luckyhome\\Thing.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-04T14:10:28.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Thing.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Thing.h",
+              "RelativeDocumentMoniker": "luckyhome\\Thing.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Thing.h",
+              "RelativeToolTip": "luckyhome\\Thing.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-04T13:11:39.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
