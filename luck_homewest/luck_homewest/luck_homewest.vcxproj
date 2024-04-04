@@ -127,14 +127,29 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Bubble.cpp" />
+    <ClCompile Include="Coconut.cpp" />
+    <ClCompile Include="Coin.cpp" />
+    <ClCompile Include="commentitem.cpp" />
     <ClCompile Include="commentItem.h" />
-    <ClCompile Include="cow.h" />
+    <ClCompile Include="Cow.cpp" />
+    <ClCompile Include="Empty.cpp" />
+    <ClCompile Include="Fish.cpp" />
+    <ClCompile Include="Flower.cpp" />
+    <ClCompile Include="forms.cpp" />
     <ClCompile Include="forms.h" />
+    <ClCompile Include="GoldEgg.cpp" />
+    <ClCompile Include="Goose.cpp" />
+    <ClCompile Include="HalfCoconut.cpp" />
+    <ClCompile Include="HollowFruit.cpp" />
+    <ClCompile Include="Item.cpp" />
     <ClCompile Include="Item.h" />
+    <ClCompile Include="Key.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Bee.h" />
+    <ClInclude Include="Bee.cpp" />
+    <ClInclude Include="Cat.cpp" />
     <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>

@@ -1,40 +1,33 @@
+#ifndef ITEM_H
+#define ITEM_H
+
 #include<iostream>
-#include<string>
+#include <string>
 #include "forms.h"
 using namespace std;
+
 class Item {
 protected:
-    const int PANEL_SIZE = 20;//表示一个固定的面板大小
-    int number = 0;//表示物品的编号
-    string name;//表示物品的名字
-    string description = "null";//存储物品的描述
+    const int PANEL_SIZE = 20;
+    int number = 0; //默认编号为0
+    string name; //该物品的名字
+    string description = "null"; //储存物品的描述
 
 public:
-    Item() {}
+    Item();
+    Item(string name, int number, string description);//物品的属性
+    
+    int getNumber();//访问返回当前物品的number编号
+    void setNumber(int number); //设置当前物品的编号
 
-    Item(string name, int number, string description) : name(goods[number]), number(number), description(description) {}
-    //用于后面调用时直接创建
-    string getName() {
-        return goods[number];
-    }
 
-    void setName(string name) {
-        this->name = name;
-    }
+    string getName();//这个函数用来在知道物品的编号的情况下找到物品对应的中文名称
+    void setName(int number); //这个函数用来设置当前物品的名称（感觉没什么用）
 
-    string getDescription() {
-        return description;
-    }
+    string getDescription(); //返回当前物品的描述
+    void setDescription(string description); //用于设置当前物品的描述
 
-    void setDescription(string description) {
-        this->description = description;
-    }
-
-    /*virtual int calculateMoney(int category) {
-        return 0;
-    }
-
-    virtual Item* createNewItem() {
-        return new Item();
-    }*/
+    // ...
 };
+
+#endif

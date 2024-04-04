@@ -1,25 +1,18 @@
-#include<iostream>
-#include<string>
+#ifndef COMMENTITEM_H
+#define COMMENTITEM_H
+
 #include "Item.h"
 using namespace std;
-class commentitem : public Item{
-private:
-	int priority = 0;//优先级默认为 0
+class CommentItem : public Item {
+protected:
+	int priority = 0;//物品的优先级
+
 public:
-	commentitem() {}
+	CommentItem();
+	CommentItem(string name, int number, string description, int priority);
 
-	commentitem(string name, int number, string description, int priority)
-		: Item(name, number, description), priority(priority) {}
-	//通过父类item中的方法来补充物品的属性
-	int getPriority() {
-		return priority;
-		//访问某物品的优先级时调用
-	}
-
-	void setPriority(int priority) {
-		this->priority = priority;
-		//设置某物品的优先级时调用
-	}
-
-
+	int getPriority(); //用来访问得到当前物品的优先级
+	void setPriority(int priority); //用来设置当前物品的优先级
 };
+
+#endif

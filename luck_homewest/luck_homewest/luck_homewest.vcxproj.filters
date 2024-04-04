@@ -30,7 +30,49 @@
     <ClCompile Include="forms.h">
       <Filter>head</Filter>
     </ClCompile>
-    <ClCompile Include="cow.h">
+    <ClCompile Include="Bubble.cpp">
+      <Filter>head\Commentitem</Filter>
+    </ClCompile>
+    <ClCompile Include="forms.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="commentitem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Coconut.cpp">
+      <Filter>head\Commentitem</Filter>
+    </ClCompile>
+    <ClCompile Include="Coin.cpp">
+      <Filter>head\Commentitem</Filter>
+    </ClCompile>
+    <ClCompile Include="Cow.cpp">
+      <Filter>head\Commentitem</Filter>
+    </ClCompile>
+    <ClCompile Include="Empty.cpp">
+      <Filter>head\Commentitem</Filter>
+    </ClCompile>
+    <ClCompile Include="Fish.cpp">
+      <Filter>head\Commentitem</Filter>
+    </ClCompile>
+    <ClCompile Include="Flower.cpp">
+      <Filter>head\Commentitem</Filter>
+    </ClCompile>
+    <ClCompile Include="GoldEgg.cpp">
+      <Filter>head\Commentitem</Filter>
+    </ClCompile>
+    <ClCompile Include="Goose.cpp">
+      <Filter>head\Commentitem</Filter>
+    </ClCompile>
+    <ClCompile Include="HalfCoconut.cpp">
+      <Filter>head\Commentitem</Filter>
+    </ClCompile>
+    <ClCompile Include="HollowFruit.cpp">
+      <Filter>head\Commentitem</Filter>
+    </ClCompile>
+    <ClCompile Include="Key.cpp">
       <Filter>head\Commentitem</Filter>
     </ClCompile>
   </ItemGroup>
@@ -38,7 +80,10 @@
     <ClInclude Include="resource.h">
       <Filter>head</Filter>
     </ClInclude>
-    <ClInclude Include="Bee.h">
+    <ClInclude Include="Bee.cpp">
+      <Filter>head\Commentitem</Filter>
+    </ClInclude>
+    <ClInclude Include="Cat.cpp">
       <Filter>head\Commentitem</Filter>
     </ClInclude>
   </ItemGroup>
