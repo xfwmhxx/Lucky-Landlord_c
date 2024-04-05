@@ -7,12 +7,144 @@
       "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Thing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Position.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Position.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Thing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Thing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Treasure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Treasure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Steelsafe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Steelsafe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Steelsafe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Steelsafe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Position.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Position.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Cat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Cat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Cat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Cat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Props.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Props.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Essence.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Essence.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Milk.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Milk.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Milk.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Milk.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Lockbox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Lockbox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Lockbox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Lockbox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Hugetreasure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Hugetreasure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Hugetreasure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Hugetreasure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Halfcoconut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Halfcoconut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Halfcoconut.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Halfcoconut.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Goose.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Goose.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Goose.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Goose.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Goldegg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Goldegg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Goldegg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Goldegg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Flower.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Flower.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Flower.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Flower.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Cow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Cow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Cow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Cow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Coin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Coin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Coin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Coin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Coconut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Coconut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Bubble.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Bubble.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Bubble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Bubble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Bee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Bee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Bee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Bee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\BlackPepper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\BlackPepper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\LockRemover.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -31,76 +163,16 @@
       "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\GreenPepper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\BlackPepper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\BlackPepper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\RainCloud.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\RainCloud.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Position.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Position.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Steelsafe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Steelsafe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Goose.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Goose.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Bee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Bee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Cat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Cat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Cat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Cat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Thing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Thing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Milk.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Milk.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Magickey.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Magickey.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Lockbox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Lockbox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Key.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Key.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Hugetreasure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Hugetreasure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Halfcoconut.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Halfcoconut.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Goose.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Goose.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Goldegg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Goldegg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Flower.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Flower.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Fish.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -111,20 +183,8 @@
       "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Empty.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Cow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Cow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Coin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Coin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Coconut.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Coconut.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Treasure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Treasure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Treasure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -145,10 +205,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Strawberry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Strawberry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Steelsafe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Steelsafe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Rain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -175,68 +231,20 @@
       "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Monkey.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Milk.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Milk.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Magickey.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Magickey.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Lockbox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Lockbox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Position.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Position.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Key.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Key.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Hugetreasure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Hugetreasure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Coconut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Coconut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Halfcoconut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Halfcoconut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Goldegg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Goldegg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Flower.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Flower.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Fish.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Fish.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Coin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Coin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Empty.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Empty.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Bubble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Bubble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Bubble.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Bubble.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Bee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Bee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\RainCloud.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -251,16 +259,8 @@
       "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\GreenPepper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Props.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Props.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Essence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Essence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|D:\\luckhome\\luckyhome\\luckyhome\\Essence.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FB84EB4F-E208-4074-B27E-9F1CEAF49DC0}|luckyhome\\luckyhome.vcxproj|solutionrelative:luckyhome\\Essence.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -270,84 +270,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LockRemover.h",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\LockRemover.h",
-              "RelativeDocumentMoniker": "luckyhome\\LockRemover.h",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\LockRemover.h",
-              "RelativeToolTip": "luckyhome\\LockRemover.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-05T06:04:37.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GreenPepper.h",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\GreenPepper.h",
-              "RelativeDocumentMoniker": "luckyhome\\GreenPepper.h",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\GreenPepper.h",
-              "RelativeToolTip": "luckyhome\\GreenPepper.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-05T03:51:03.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MonkeyOlivander.h",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\MonkeyOlivander.h",
-              "RelativeDocumentMoniker": "luckyhome\\MonkeyOlivander.h",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\MonkeyOlivander.h",
-              "RelativeToolTip": "luckyhome\\MonkeyOlivander.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-05T07:23:05.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LockRemover.cpp",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\LockRemover.cpp",
-              "RelativeDocumentMoniker": "luckyhome\\LockRemover.cpp",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\LockRemover.cpp",
-              "RelativeToolTip": "luckyhome\\LockRemover.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-05T06:08:16.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\main.cpp",
               "RelativeDocumentMoniker": "luckyhome\\main.cpp",
               "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\main.cpp",
               "RelativeToolTip": "luckyhome\\main.cpp",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-05T04:54:30.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cow.cpp",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Cow.cpp",
-              "RelativeDocumentMoniker": "luckyhome\\Cow.cpp",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Cow.cpp",
-              "RelativeToolTip": "luckyhome\\Cow.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-05T09:00:39.684Z",
               "EditorCaption": ""
             },
             {
@@ -358,27 +293,508 @@
               "RelativeDocumentMoniker": "luckyhome\\Thing.h",
               "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Thing.h",
               "RelativeToolTip": "luckyhome\\Thing.h",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-04-05T08:43:25.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Position.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Position.h",
+              "RelativeDocumentMoniker": "luckyhome\\Position.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Position.h",
+              "RelativeToolTip": "luckyhome\\Position.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T08:43:49.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Thing.cpp",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Thing.cpp",
+              "RelativeDocumentMoniker": "luckyhome\\Thing.cpp",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Thing.cpp",
+              "RelativeToolTip": "luckyhome\\Thing.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T08:47:34.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Position.cpp",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Position.cpp",
+              "RelativeDocumentMoniker": "luckyhome\\Position.cpp",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Position.cpp",
+              "RelativeToolTip": "luckyhome\\Position.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T08:46:49.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Steelsafe.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Steelsafe.h",
+              "RelativeDocumentMoniker": "luckyhome\\Steelsafe.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Steelsafe.h",
+              "RelativeToolTip": "luckyhome\\Steelsafe.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T09:31:33.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Steelsafe.cpp",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Steelsafe.cpp",
+              "RelativeDocumentMoniker": "luckyhome\\Steelsafe.cpp",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Steelsafe.cpp",
+              "RelativeToolTip": "luckyhome\\Steelsafe.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T09:31:39.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Treasure.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Treasure.h",
+              "RelativeDocumentMoniker": "luckyhome\\Treasure.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Treasure.h",
+              "RelativeToolTip": "luckyhome\\Treasure.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T09:36:25.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cat.cpp",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Cat.cpp",
+              "RelativeDocumentMoniker": "luckyhome\\Cat.cpp",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Cat.cpp",
+              "RelativeToolTip": "luckyhome\\Cat.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T08:53:26.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cat.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Cat.h",
+              "RelativeDocumentMoniker": "luckyhome\\Cat.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Cat.h",
+              "RelativeToolTip": "luckyhome\\Cat.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T08:51:23.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Props.cpp",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Props.cpp",
+              "RelativeDocumentMoniker": "luckyhome\\Props.cpp",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Props.cpp",
+              "RelativeToolTip": "luckyhome\\Props.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T04:48:29.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Essence.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Essence.h",
+              "RelativeDocumentMoniker": "luckyhome\\Essence.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Essence.h",
+              "RelativeToolTip": "luckyhome\\Essence.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T04:45:12.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Milk.cpp",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Milk.cpp",
+              "RelativeDocumentMoniker": "luckyhome\\Milk.cpp",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Milk.cpp",
+              "RelativeToolTip": "luckyhome\\Milk.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T09:24:29.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Milk.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Milk.h",
+              "RelativeDocumentMoniker": "luckyhome\\Milk.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Milk.h",
+              "RelativeToolTip": "luckyhome\\Milk.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T09:24:38.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Lockbox.cpp",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Lockbox.cpp",
+              "RelativeDocumentMoniker": "luckyhome\\Lockbox.cpp",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Lockbox.cpp",
+              "RelativeToolTip": "luckyhome\\Lockbox.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T09:17:45.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Lockbox.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Lockbox.h",
+              "RelativeDocumentMoniker": "luckyhome\\Lockbox.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Lockbox.h",
+              "RelativeToolTip": "luckyhome\\Lockbox.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T09:17:39.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Hugetreasure.cpp",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Hugetreasure.cpp",
+              "RelativeDocumentMoniker": "luckyhome\\Hugetreasure.cpp",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Hugetreasure.cpp",
+              "RelativeToolTip": "luckyhome\\Hugetreasure.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T09:13:57.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Hugetreasure.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Hugetreasure.h",
+              "RelativeDocumentMoniker": "luckyhome\\Hugetreasure.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Hugetreasure.h",
+              "RelativeToolTip": "luckyhome\\Hugetreasure.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T09:13:50.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Halfcoconut.cpp",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Halfcoconut.cpp",
+              "RelativeDocumentMoniker": "luckyhome\\Halfcoconut.cpp",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Halfcoconut.cpp",
+              "RelativeToolTip": "luckyhome\\Halfcoconut.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T09:11:21.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Halfcoconut.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Halfcoconut.h",
+              "RelativeDocumentMoniker": "luckyhome\\Halfcoconut.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Halfcoconut.h",
+              "RelativeToolTip": "luckyhome\\Halfcoconut.h",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T09:09:00.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Goose.cpp",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Goose.cpp",
+              "RelativeDocumentMoniker": "luckyhome\\Goose.cpp",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Goose.cpp",
+              "RelativeToolTip": "luckyhome\\Goose.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T09:07:05.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Goose.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Goose.h",
+              "RelativeDocumentMoniker": "luckyhome\\Goose.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Goose.h",
+              "RelativeToolTip": "luckyhome\\Goose.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T09:06:57.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Goldegg.cpp",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Goldegg.cpp",
+              "RelativeDocumentMoniker": "luckyhome\\Goldegg.cpp",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Goldegg.cpp",
+              "RelativeToolTip": "luckyhome\\Goldegg.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T09:06:06.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Goldegg.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Goldegg.h",
+              "RelativeDocumentMoniker": "luckyhome\\Goldegg.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Goldegg.h",
+              "RelativeToolTip": "luckyhome\\Goldegg.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T09:05:19.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Flower.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Flower.h",
+              "RelativeDocumentMoniker": "luckyhome\\Flower.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Flower.h",
+              "RelativeToolTip": "luckyhome\\Flower.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T09:03:49.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Flower.cpp",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Flower.cpp",
+              "RelativeDocumentMoniker": "luckyhome\\Flower.cpp",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Flower.cpp",
+              "RelativeToolTip": "luckyhome\\Flower.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T09:04:23.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Cow.cpp",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Cow.cpp",
+              "RelativeDocumentMoniker": "luckyhome\\Cow.cpp",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Cow.cpp",
+              "RelativeToolTip": "luckyhome\\Cow.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T09:00:39.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Cow.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Cow.h",
+              "RelativeDocumentMoniker": "luckyhome\\Cow.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Cow.h",
+              "RelativeToolTip": "luckyhome\\Cow.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T08:59:57.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Coin.cpp",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Coin.cpp",
+              "RelativeDocumentMoniker": "luckyhome\\Coin.cpp",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Coin.cpp",
+              "RelativeToolTip": "luckyhome\\Coin.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T08:58:39.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Coin.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Coin.h",
+              "RelativeDocumentMoniker": "luckyhome\\Coin.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Coin.h",
+              "RelativeToolTip": "luckyhome\\Coin.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T08:58:28.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Coconut.cpp",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Coconut.cpp",
+              "RelativeDocumentMoniker": "luckyhome\\Coconut.cpp",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Coconut.cpp",
+              "RelativeToolTip": "luckyhome\\Coconut.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T08:57:29.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Bubble.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Bubble.h",
+              "RelativeDocumentMoniker": "luckyhome\\Bubble.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Bubble.h",
+              "RelativeToolTip": "luckyhome\\Bubble.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T08:49:59.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Bubble.cpp",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Bubble.cpp",
+              "RelativeDocumentMoniker": "luckyhome\\Bubble.cpp",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Bubble.cpp",
+              "RelativeToolTip": "luckyhome\\Bubble.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T08:50:35.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Bee.cpp",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Bee.cpp",
+              "RelativeDocumentMoniker": "luckyhome\\Bee.cpp",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Bee.cpp",
+              "RelativeToolTip": "luckyhome\\Bee.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T08:48:40.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Bee.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Bee.h",
+              "RelativeDocumentMoniker": "luckyhome\\Bee.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Bee.h",
+              "RelativeToolTip": "luckyhome\\Bee.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T08:41:44.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "BlackPepper.h",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\BlackPepper.h",
               "RelativeDocumentMoniker": "luckyhome\\BlackPepper.h",
               "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\BlackPepper.h",
               "RelativeToolTip": "luckyhome\\BlackPepper.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-04-05T08:17:39.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 36,
+              "Title": "LockRemover.cpp",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\LockRemover.cpp",
+              "RelativeDocumentMoniker": "luckyhome\\LockRemover.cpp",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\LockRemover.cpp",
+              "RelativeToolTip": "luckyhome\\LockRemover.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T06:08:16.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MonkeyOlivander.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\MonkeyOlivander.h",
+              "RelativeDocumentMoniker": "luckyhome\\MonkeyOlivander.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\MonkeyOlivander.h",
+              "RelativeToolTip": "luckyhome\\MonkeyOlivander.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T07:23:05.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GreenPepper.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\GreenPepper.h",
+              "RelativeDocumentMoniker": "luckyhome\\GreenPepper.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\GreenPepper.h",
+              "RelativeToolTip": "luckyhome\\GreenPepper.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T03:51:03.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LockRemover.h",
+              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\LockRemover.h",
+              "RelativeDocumentMoniker": "luckyhome\\LockRemover.h",
+              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\LockRemover.h",
+              "RelativeToolTip": "luckyhome\\LockRemover.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T06:04:37.105Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
               "Title": "RainCloud.cpp",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\RainCloud.cpp",
               "RelativeDocumentMoniker": "luckyhome\\RainCloud.cpp",
@@ -386,109 +802,11 @@
               "RelativeToolTip": "luckyhome\\RainCloud.cpp",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-05T07:50:58.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T07:50:58.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Position.h",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Position.h",
-              "RelativeDocumentMoniker": "luckyhome\\Position.h",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Position.h",
-              "RelativeToolTip": "luckyhome\\Position.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-05T08:43:49.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Steelsafe.cpp",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Steelsafe.cpp",
-              "RelativeDocumentMoniker": "luckyhome\\Steelsafe.cpp",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Steelsafe.cpp",
-              "RelativeToolTip": "luckyhome\\Steelsafe.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-05T09:31:39.425Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Goose.cpp",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Goose.cpp",
-              "RelativeDocumentMoniker": "luckyhome\\Goose.cpp",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Goose.cpp",
-              "RelativeToolTip": "luckyhome\\Goose.cpp",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-05T09:07:05.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Bee.cpp",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Bee.cpp",
-              "RelativeDocumentMoniker": "luckyhome\\Bee.cpp",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Bee.cpp",
-              "RelativeToolTip": "luckyhome\\Bee.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-05T08:48:40.228Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Cat.cpp",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Cat.cpp",
-              "RelativeDocumentMoniker": "luckyhome\\Cat.cpp",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Cat.cpp",
-              "RelativeToolTip": "luckyhome\\Cat.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-05T08:53:26.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Thing.cpp",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Thing.cpp",
-              "RelativeDocumentMoniker": "luckyhome\\Thing.cpp",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Thing.cpp",
-              "RelativeToolTip": "luckyhome\\Thing.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-05T08:47:34.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Cat.h",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Cat.h",
-              "RelativeDocumentMoniker": "luckyhome\\Cat.h",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Cat.h",
-              "RelativeToolTip": "luckyhome\\Cat.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-05T08:51:23.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Milk.h",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Milk.h",
-              "RelativeDocumentMoniker": "luckyhome\\Milk.h",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Milk.h",
-              "RelativeToolTip": "luckyhome\\Milk.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-05T09:24:38.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 41,
               "Title": "Magickey.h",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Magickey.h",
               "RelativeDocumentMoniker": "luckyhome\\Magickey.h",
@@ -500,19 +818,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Lockbox.h",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Lockbox.h",
-              "RelativeDocumentMoniker": "luckyhome\\Lockbox.h",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Lockbox.h",
-              "RelativeToolTip": "luckyhome\\Lockbox.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-05T09:17:39.777Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 42,
               "Title": "Key.h",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Key.h",
               "RelativeDocumentMoniker": "luckyhome\\Key.h",
@@ -524,67 +830,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Hugetreasure.h",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Hugetreasure.h",
-              "RelativeDocumentMoniker": "luckyhome\\Hugetreasure.h",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Hugetreasure.h",
-              "RelativeToolTip": "luckyhome\\Hugetreasure.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-05T09:13:50.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Halfcoconut.h",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Halfcoconut.h",
-              "RelativeDocumentMoniker": "luckyhome\\Halfcoconut.h",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Halfcoconut.h",
-              "RelativeToolTip": "luckyhome\\Halfcoconut.h",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABEAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-05T09:09:00.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Goose.h",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Goose.h",
-              "RelativeDocumentMoniker": "luckyhome\\Goose.h",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Goose.h",
-              "RelativeToolTip": "luckyhome\\Goose.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-05T09:06:57.263Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Goldegg.h",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Goldegg.h",
-              "RelativeDocumentMoniker": "luckyhome\\Goldegg.h",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Goldegg.h",
-              "RelativeToolTip": "luckyhome\\Goldegg.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-05T09:05:19.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Flower.h",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Flower.h",
-              "RelativeDocumentMoniker": "luckyhome\\Flower.h",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Flower.h",
-              "RelativeToolTip": "luckyhome\\Flower.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-05T09:03:49.188Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 43,
               "Title": "Fish.h",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Fish.h",
               "RelativeDocumentMoniker": "luckyhome\\Fish.h",
@@ -596,7 +842,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 44,
               "Title": "Empty.h",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Empty.h",
               "RelativeDocumentMoniker": "luckyhome\\Empty.h",
@@ -608,31 +854,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Cow.h",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Cow.h",
-              "RelativeDocumentMoniker": "luckyhome\\Cow.h",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Cow.h",
-              "RelativeToolTip": "luckyhome\\Cow.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-05T08:59:57.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Coin.h",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Coin.h",
-              "RelativeDocumentMoniker": "luckyhome\\Coin.h",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Coin.h",
-              "RelativeToolTip": "luckyhome\\Coin.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-05T08:58:28.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 45,
               "Title": "Coconut.h",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Coconut.h",
               "RelativeDocumentMoniker": "luckyhome\\Coconut.h",
@@ -644,19 +866,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Treasure.h",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Treasure.h",
-              "RelativeDocumentMoniker": "luckyhome\\Treasure.h",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Treasure.h",
-              "RelativeToolTip": "luckyhome\\Treasure.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-05T09:36:25.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 46,
               "Title": "Treasure.cpp",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Treasure.cpp",
               "RelativeDocumentMoniker": "luckyhome\\Treasure.cpp",
@@ -668,7 +878,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 47,
               "Title": "Sun.cpp",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Sun.cpp",
               "RelativeDocumentMoniker": "luckyhome\\Sun.cpp",
@@ -680,7 +890,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 48,
               "Title": "Sun.h",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Sun.h",
               "RelativeDocumentMoniker": "luckyhome\\Sun.h",
@@ -692,7 +902,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 49,
               "Title": "Strawberry.cpp",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Strawberry.cpp",
               "RelativeDocumentMoniker": "luckyhome\\Strawberry.cpp",
@@ -704,7 +914,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 50,
               "Title": "Strawberry.h",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Strawberry.h",
               "RelativeDocumentMoniker": "luckyhome\\Strawberry.h",
@@ -716,19 +926,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Steelsafe.h",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Steelsafe.h",
-              "RelativeDocumentMoniker": "luckyhome\\Steelsafe.h",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Steelsafe.h",
-              "RelativeToolTip": "luckyhome\\Steelsafe.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-05T09:31:33.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 51,
               "Title": "Rain.cpp",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Rain.cpp",
               "RelativeDocumentMoniker": "luckyhome\\Rain.cpp",
@@ -740,7 +938,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 52,
               "Title": "Rain.h",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Rain.h",
               "RelativeDocumentMoniker": "luckyhome\\Rain.h",
@@ -752,7 +950,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 53,
               "Title": "Pearl.cpp",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Pearl.cpp",
               "RelativeDocumentMoniker": "luckyhome\\Pearl.cpp",
@@ -764,7 +962,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 54,
               "Title": "Pearl.h",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Pearl.h",
               "RelativeDocumentMoniker": "luckyhome\\Pearl.h",
@@ -776,7 +974,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 55,
               "Title": "Monkey.cpp",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Monkey.cpp",
               "RelativeDocumentMoniker": "luckyhome\\Monkey.cpp",
@@ -788,7 +986,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 56,
               "Title": "Monkey.h",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Monkey.h",
               "RelativeDocumentMoniker": "luckyhome\\Monkey.h",
@@ -800,19 +998,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Milk.cpp",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Milk.cpp",
-              "RelativeDocumentMoniker": "luckyhome\\Milk.cpp",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Milk.cpp",
-              "RelativeToolTip": "luckyhome\\Milk.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-05T09:24:29.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 57,
               "Title": "Magickey.cpp",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Magickey.cpp",
               "RelativeDocumentMoniker": "luckyhome\\Magickey.cpp",
@@ -824,19 +1010,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Lockbox.cpp",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Lockbox.cpp",
-              "RelativeDocumentMoniker": "luckyhome\\Lockbox.cpp",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Lockbox.cpp",
-              "RelativeToolTip": "luckyhome\\Lockbox.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-05T09:17:45.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 58,
               "Title": "Key.cpp",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Key.cpp",
               "RelativeDocumentMoniker": "luckyhome\\Key.cpp",
@@ -848,79 +1022,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Hugetreasure.cpp",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Hugetreasure.cpp",
-              "RelativeDocumentMoniker": "luckyhome\\Hugetreasure.cpp",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Hugetreasure.cpp",
-              "RelativeToolTip": "luckyhome\\Hugetreasure.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-05T09:13:57.482Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Position.cpp",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Position.cpp",
-              "RelativeDocumentMoniker": "luckyhome\\Position.cpp",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Position.cpp",
-              "RelativeToolTip": "luckyhome\\Position.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-05T08:46:49.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "Halfcoconut.cpp",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Halfcoconut.cpp",
-              "RelativeDocumentMoniker": "luckyhome\\Halfcoconut.cpp",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Halfcoconut.cpp",
-              "RelativeToolTip": "luckyhome\\Halfcoconut.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-05T09:11:21.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Goldegg.cpp",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Goldegg.cpp",
-              "RelativeDocumentMoniker": "luckyhome\\Goldegg.cpp",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Goldegg.cpp",
-              "RelativeToolTip": "luckyhome\\Goldegg.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-05T09:06:06.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "Coconut.cpp",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Coconut.cpp",
-              "RelativeDocumentMoniker": "luckyhome\\Coconut.cpp",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Coconut.cpp",
-              "RelativeToolTip": "luckyhome\\Coconut.cpp",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAkAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-05T08:57:29.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "Flower.cpp",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Flower.cpp",
-              "RelativeDocumentMoniker": "luckyhome\\Flower.cpp",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Flower.cpp",
-              "RelativeToolTip": "luckyhome\\Flower.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-05T09:04:23.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 59,
               "Title": "Fish.cpp",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Fish.cpp",
               "RelativeDocumentMoniker": "luckyhome\\Fish.cpp",
@@ -932,19 +1034,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "Coin.cpp",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Coin.cpp",
-              "RelativeDocumentMoniker": "luckyhome\\Coin.cpp",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Coin.cpp",
-              "RelativeToolTip": "luckyhome\\Coin.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-05T08:58:39.133Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 60,
               "Title": "Empty.cpp",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Empty.cpp",
               "RelativeDocumentMoniker": "luckyhome\\Empty.cpp",
@@ -956,43 +1046,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "Bubble.cpp",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Bubble.cpp",
-              "RelativeDocumentMoniker": "luckyhome\\Bubble.cpp",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Bubble.cpp",
-              "RelativeToolTip": "luckyhome\\Bubble.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-05T08:50:35.029Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "Bubble.h",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Bubble.h",
-              "RelativeDocumentMoniker": "luckyhome\\Bubble.h",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Bubble.h",
-              "RelativeToolTip": "luckyhome\\Bubble.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-05T08:49:59.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "Bee.h",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Bee.h",
-              "RelativeDocumentMoniker": "luckyhome\\Bee.h",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Bee.h",
-              "RelativeToolTip": "luckyhome\\Bee.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-05T08:41:44.488Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 61,
               "Title": "RainCloud.h",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\RainCloud.h",
               "RelativeDocumentMoniker": "luckyhome\\RainCloud.h",
@@ -1004,7 +1058,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 62,
               "Title": "MonkeyOlivander.cpp",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\MonkeyOlivander.cpp",
               "RelativeDocumentMoniker": "luckyhome\\MonkeyOlivander.cpp",
@@ -1016,7 +1070,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 63,
               "Title": "GreenPepper.cpp",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\GreenPepper.cpp",
               "RelativeDocumentMoniker": "luckyhome\\GreenPepper.cpp",
@@ -1028,19 +1082,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "Props.cpp",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Props.cpp",
-              "RelativeDocumentMoniker": "luckyhome\\Props.cpp",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Props.cpp",
-              "RelativeToolTip": "luckyhome\\Props.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-05T04:48:29.522Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "Essence.cpp",
               "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Essence.cpp",
               "RelativeDocumentMoniker": "luckyhome\\Essence.cpp",
@@ -1049,18 +1091,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-05T04:45:41.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "Essence.h",
-              "DocumentMoniker": "D:\\luckhome\\luckyhome\\luckyhome\\Essence.h",
-              "RelativeDocumentMoniker": "luckyhome\\Essence.h",
-              "ToolTip": "D:\\luckhome\\luckyhome\\luckyhome\\Essence.h",
-              "RelativeToolTip": "luckyhome\\Essence.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-05T04:45:12.814Z"
             }
           ]
         }

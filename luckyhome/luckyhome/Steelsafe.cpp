@@ -6,10 +6,10 @@ Steelsafe::Steelsafe() {
     setDescribe("价值30枚金币,可以被钥匙消除");
 }
 
-int calculateMoney(vector<Thing*>& category) {
+int Steelsafe::calculateMoney(vector<Thing*>& category) {
     return 1;
 }
 
-Steelsafe* createNewItem() {
+Steelsafe* Steelsafe::createNewItem() {
     return new Steelsafe();
 }

@@ -11,7 +11,7 @@ private:
     int position;
 public:
 
-    Bee() : Thing() {}
+    Bee();
 
     int calculateMoney(vector<Thing*> category);
 

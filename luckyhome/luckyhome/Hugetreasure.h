@@ -8,7 +8,7 @@
 
 class Hugetreasure : public Thing {
 public:
-    Hugetreasure() {}
+    Hugetreasure();
     int calculateMoney(vector<Thing*>& category);
     Hugetreasure* createNewItem();
 

@@ -1,8 +1,7 @@
 #include "../luckyhome/Thing.h"
 using namespace std;
 
-Thing::Thing()
-	:name(name), value(value), number(number), price(price), describe(describe) {}
+Thing::Thing():name(""), number(0), price(0), describe(""), counter(0), Accumulator(0) {}
 Thing::~Thing() {}
 
 string Thing::getName() {
@@ -55,8 +54,8 @@ void Thing::setAccumulator(int Accumulator) {
 };
 
 Position Thing::getPosition() {
-	return position;
+	return positions;
 };
 void Thing::setPosition(Position position) {
-	this->position = position;
+	this->positions = position;
 };

@@ -8,7 +8,7 @@
 
 class Goldegg : public Thing {
 public:
-    Goldegg() {}
+    Goldegg();
     int calculateMoney(vector<Thing*> category);
     Goldegg* createNewItem();
 

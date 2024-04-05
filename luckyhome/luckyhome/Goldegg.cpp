@@ -6,10 +6,10 @@ Goldegg::Goldegg() {
     setDescribe("¼ÛÖµ4Ã¶½ð±Ò");
 }
 
-int calculateMoney(vector<Thing*> category) {
+int Goldegg::calculateMoney(vector<Thing*> category) {
     return 4;
 }
 
-Goldegg* createNewItem() {
+Goldegg* Goldegg::createNewItem() {
     return new Goldegg();
 }

@@ -8,7 +8,7 @@
 
 class Steelsafe : public Thing {
 public:
-    Steelsafe() {}
+    Steelsafe();
     int calculateMoney(vector<Thing*>& category);
     Steelsafe* createNewItem();
 

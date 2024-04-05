@@ -8,7 +8,7 @@
 
 class Lockbox : public Thing {
 public:
-    Lockbox() {}
+    Lockbox();
     int calculateMoney(vector<Thing*>& category);
     Lockbox* createNewItem();
 

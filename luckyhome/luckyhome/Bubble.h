@@ -8,7 +8,7 @@
 
 class Bubble : public Thing {
 public:
-    Bubble() {}
+    Bubble();
     int calculateMoney(vector<Thing*> category);
     Bubble* createNewItem();
 

@@ -7,7 +7,7 @@ Cow::Cow() : Thing() {
     setPrice(4);
 }
 
-int calculateMoney(vector<Thing*> itemCategory) {
+int Cow::calculateMoney(vector<Thing*> itemCategory) {
     int cntEmpty = -1;
     int pos[20];
     for (int i = 0; i < 20; i++) {
@@ -35,6 +35,6 @@ int calculateMoney(vector<Thing*> itemCategory) {
     return 3;
 }
 
-Cow* createNewItem() {
+Cow* Cow::createNewItem() {
     return new Cow();
 }

@@ -21,17 +21,11 @@ protected:
 	int counter_now = 0;//当前计时器
 	int Accumulator;//计数器
 	int Accumulator_now = 0;//当前计数器
-	Position position;
+	Position positions;
 
 public:
 
-	Thing() {
-		name = "";
-		value = 0;
-		price = 0;
-		number = 0;
-		describe = "";
-	};
+	Thing();
 	virtual ~Thing();
 	string getName();
 	void setName(string name);

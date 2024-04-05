@@ -6,10 +6,10 @@ Milk::Milk() {
     setDescribe("¼ÛÖµ1Ã¶½ð±Ò");
 }
 
-int calculateMoney(vector<Thing*> category) {
+int Milk::calculateMoney(vector<Thing*> category) {
     return 1;
 }
 
-Milk* createNewItem() {
+Milk* Milk::createNewItem() {
     return new Milk();
 }

@@ -6,11 +6,11 @@ Bubble::Bubble() {
     setDescribe("¼ÛÖµ2Ã¶½ð±Ò");
 }
 
-int calculateMoney(vector<Thing*> category) {
+int Bubble::calculateMoney(vector<Thing*> category) {
     int price = 2;
     return price;
 }
 
-Bubble* createNewItem() {
+Bubble* Bubble::createNewItem() {
     return new Bubble();
 }

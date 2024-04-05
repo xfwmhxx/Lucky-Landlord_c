@@ -6,10 +6,10 @@ Flower::Flower() {
     setDescribe("¼ÛÖµ1Ã¶½ð±Ò");
 }
 
-int calculateMoney(vector<Thing*> category) {
+int Flower::calculateMoney(vector<Thing*> category) {
     return 1;
 }
 
-Flower* createNewItem() {
+Flower* Flower::createNewItem() {
     return new Flower();
 }

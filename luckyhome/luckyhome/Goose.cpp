@@ -6,7 +6,7 @@ Goose::Goose() {
     setDescribe("价值3金币,如果老虎机面板上有空格,有1%概率增加金蛋");
 }
 
-int calculateMoney(vector<Thing*>& category) {
+int Goose::calculateMoney(vector<Thing*>& category) {
     int cntEmpty = -1;
     int pos[20];
     for (int i = 0; i < 20; i++) {
@@ -32,6 +32,6 @@ int calculateMoney(vector<Thing*>& category) {
     return 3;
 }
 
-Goose* createNewItem() {
+Goose* Goose::createNewItem() {
     return new Goose();
 }

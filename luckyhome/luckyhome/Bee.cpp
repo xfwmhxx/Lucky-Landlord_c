@@ -1,6 +1,6 @@
 #include "../luckyhome/Bee.h"
 
-Bee::Bee() : Thing() {
+Bee::Bee(){
     setPrice(2);
     setName("bee");
     setDescribe("价值1枚金币，如果周围有花，每朵花增加1枚金币");

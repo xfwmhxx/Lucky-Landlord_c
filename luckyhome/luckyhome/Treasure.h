@@ -8,7 +8,7 @@
 
 class Treasure : public Thing {
 public:
-    Treasure() {}
+    Treasure();
     int calculateMoney(vector<Thing*>& category);
     Treasure* createNewItem();
 

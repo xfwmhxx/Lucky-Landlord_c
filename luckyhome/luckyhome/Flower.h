@@ -8,7 +8,7 @@
 
 class Flower : public Thing {
 public:
-    Flower() {}
+    Flower();
     int calculateMoney(vector<Thing*> category);
     Flower* createNewItem();
 

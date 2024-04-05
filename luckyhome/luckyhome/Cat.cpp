@@ -1,9 +1,10 @@
 #include "../luckyhome/Cat.h"
 
-Cat::Cat() : Thing() {
+Cat::Cat(){
     setPrice(3);
     setName("cat");
     setDescribe("价值1枚金币，消除周围的牛奶，每消除一个牛奶，获得9枚金币");
+
 }
 
 int Cat::calculateMoney(std::vector<Thing*> category) {
@@ -27,6 +28,7 @@ bool Cat::isNear(int position1, int position2) {
     //int indexRow = index / 5;
     //int indexColumn = index % 5;
     //return (abs(row - indexRow) <= 1 && abs(column - indexColumn) <= 1);
+    return 0;
 }
 
 int Cat::getPosition() {

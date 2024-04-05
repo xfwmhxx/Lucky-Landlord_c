@@ -9,7 +9,7 @@
 
 class Goose : public Thing {
 public:
-    Goose() {}
+    Goose();
     int calculateMoney(vector<Thing*>& category);
     Goose* createNewItem();
 

@@ -11,7 +11,7 @@ class Halfcoconut : public Thing {
 private:
     int position;
 public:
-    Halfcoconut() {}
+    Halfcoconut();
     int calculateMoney(vector<Thing*> category);
     Halfcoconut* createNewItem();
     bool isNear(int position1, int position2);

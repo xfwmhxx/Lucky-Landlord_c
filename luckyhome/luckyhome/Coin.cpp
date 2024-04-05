@@ -6,10 +6,10 @@ Coin::Coin() {
     setDescribe("¼ÛÖµ1Ã¶½ð±Ò");
 }
 
-int calculateMoney(vector<Thing*> category) {
+int Coin::calculateMoney(vector<Thing*> category) {
     return 1;
 }
 
-Coin* createNewItem() {
+Coin* Coin::createNewItem() {
     return new Coin();
 }

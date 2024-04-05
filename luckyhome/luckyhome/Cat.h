@@ -13,7 +13,7 @@ class Cat : public Thing {
 private:
     int position;
 public:
-    Cat() {}
+    Cat();
     int calculateMoney(vector<Thing*> category);
     Cat* createNewItem();
     bool isNear(int position1, int position2);
