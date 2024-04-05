@@ -1,7 +1,7 @@
 #include "../luckyhome/Thing.h"
 using namespace std;
 
-Thing::Thing():name(""), number(0), price(0), describe(""), counter(0), Accumulator(0) {}
+Thing::Thing() :name(""), number(0), price(0), describe(""), counter(0), Accumulator(0) {}
 Thing::~Thing() {}
 
 string Thing::getName() {
@@ -53,9 +53,9 @@ void Thing::setAccumulator(int Accumulator) {
 	this->Accumulator = Accumulator;
 };
 
-Position Thing::getPosition() {
+int Thing::getPosition() {
 	return positions;
 };
-void Thing::setPosition(Position position) {
+void Thing::setPosition(int position) {
 	this->positions = position;
 };

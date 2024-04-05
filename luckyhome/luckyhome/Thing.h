@@ -4,7 +4,6 @@
 #include<map>
 #include<string>
 #include<iostream>
-#include "../luckyhome/Position.h"
 using namespace std;
 
 
@@ -21,7 +20,7 @@ protected:
 	int counter_now = 0;//当前计时器
 	int Accumulator;//计数器
 	int Accumulator_now = 0;//当前计数器
-	Position positions;
+	int positions;
 
 public:
 
@@ -48,8 +47,8 @@ public:
 	int getAccumulator();
 	void setAccumulator(int Accumulator);
 
-	Position getPosition();
-	void setPosition(Position position);
+	int getPosition();
+	void setPosition(int position);
 };
 
 

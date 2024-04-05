@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClInclude Include="Bee.h" />
     <ClInclude Include="BlackPepper.h" />
+    <ClInclude Include="BlackPepper_k.h" />
     <ClInclude Include="Bubble.h" />
     <ClInclude Include="Cat.h" />
     <ClInclude Include="Coconut.h" />
@@ -141,19 +142,23 @@
     <ClInclude Include="Goldegg.h" />
     <ClInclude Include="Goose.h" />
     <ClInclude Include="GreenPepper.h" />
+    <ClInclude Include="GreenPepper_k.h" />
     <ClInclude Include="Halfcoconut.h" />
     <ClInclude Include="Hugetreasure.h" />
     <ClInclude Include="Key.h" />
     <ClInclude Include="Lockbox.h" />
     <ClInclude Include="LockRemover.h" />
+    <ClInclude Include="LockRemover_k.h" />
     <ClInclude Include="Magickey.h" />
     <ClInclude Include="Milk.h" />
     <ClInclude Include="Monkey.h" />
+    <ClInclude Include="MonkeyOlivander_k.h" />
     <ClInclude Include="MonkeyOlivander.h" />
     <ClInclude Include="Position.h" />
     <ClInclude Include="Props.h" />
     <ClInclude Include="Rain.h" />
     <ClInclude Include="RainCloud.h" />
+    <ClInclude Include="RainCloud_k.h" />
     <ClInclude Include="Steelsafe.h" />
     <ClInclude Include="Strawberry.h" />
     <ClInclude Include="Sun.h" />

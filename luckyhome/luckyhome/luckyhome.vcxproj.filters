@@ -31,6 +31,9 @@
     <Filter Include="源文件\Things">
       <UniqueIdentifier>{74103707-0563-40c4-8873-2af66eda3ba2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\Essences_h">
+      <UniqueIdentifier>{7cae6ef0-9ae7-4b04-af2b-bd84e100f1de}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Essence.h">
@@ -128,6 +131,21 @@
     </ClInclude>
     <ClInclude Include="Treasure.h">
       <Filter>头文件\Things_h</Filter>
+    </ClInclude>
+    <ClInclude Include="BlackPepper_k.h">
+      <Filter>头文件\Essences_h</Filter>
+    </ClInclude>
+    <ClInclude Include="GreenPepper_k.h">
+      <Filter>头文件\Essences_h</Filter>
+    </ClInclude>
+    <ClInclude Include="LockRemover_k.h">
+      <Filter>头文件\Essences_h</Filter>
+    </ClInclude>
+    <ClInclude Include="MonkeyOlivander_k.h">
+      <Filter>头文件\Essences_h</Filter>
+    </ClInclude>
+    <ClInclude Include="RainCloud_k.h">
+      <Filter>头文件\Essences_h</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
