@@ -6,20 +6,19 @@
 #include <string>
 #include "../luckyhome/Thing.h"
 #include "../luckyhome/Empty.h"
-#include "../luckyhome/Position.h"
 #include <vector>
 
 class Key : public Thing {
 private:
-    Position position;
+    int position;
 
 public:
     Key();
 
     int calculateMoney(std::vector<Thing*>& category);
     Key* createNewItem();
-    void setPosition(Position newPosition);
-    bool isNear(int index, Position position);
+    void setPosition(int newPosition);
+    bool isNear(int index, int position);
 };
 
 #endif // !KEY_H

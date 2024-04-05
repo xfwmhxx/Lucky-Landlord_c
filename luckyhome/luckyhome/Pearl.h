@@ -8,7 +8,7 @@
 
 class Pearl : public Thing {
 public:
-    Pearl() {}
+    Pearl();
     int calculateMoney(vector<Thing*>& category);
     Pearl* createNewItem();
 

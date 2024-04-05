@@ -6,20 +6,20 @@
 #include <string>
 #include "../luckyhome/Thing.h"
 #include "../luckyhome/Flower.h"
-#include "../luckyhome/Position.h"
+
 #include <vector>
 
 class Rain : public Thing {
 private:
-    Position position;
+    int position;
 
 public:
     Rain();
 
     int calculateMoney(std::vector<Thing*>& category);
     Rain* createNewItem();
-    void setPosition(Position newPosition);
-    bool isNear(int index, Position position);
+    void setPosition(int newPosition);
+    bool isNear(int index, int position);
 };
 
 #endif // RAIN_H

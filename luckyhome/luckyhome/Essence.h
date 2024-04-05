@@ -16,7 +16,7 @@ protected:
 	int Accumulator;
 
 public:
-	virtual void funct() = 0;//虚函数，因为每一个道具的功能不一样。希望子类能重新定义。即便子类不定义也不会报错（别乱加const）
+	//virtual void funct() = 0;//虚函数，因为每一个道具的功能不一样。希望子类能重新定义。即便子类不定义也不会报错（别乱加const）
 	Essence();
 	Essence(string name, int number, int price, string describe, int counter, int Accumulator);
 

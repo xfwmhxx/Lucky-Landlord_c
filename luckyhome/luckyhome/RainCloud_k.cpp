@@ -8,3 +8,9 @@ RainCloud_k::RainCloud_k() {
     setCounter(1);
     setAccumulator(0);
 }
+
+
+
+RainCloud_k* RainCloud_k::createNewItem() {
+    return new RainCloud_k();
+}

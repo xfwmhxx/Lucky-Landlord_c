@@ -108,6 +108,8 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EntryPointSymbol>
+      </EntryPointSymbol>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -154,7 +156,6 @@
     <ClInclude Include="Monkey.h" />
     <ClInclude Include="MonkeyOlivander_k.h" />
     <ClInclude Include="MonkeyOlivander.h" />
-    <ClInclude Include="Position.h" />
     <ClInclude Include="Props.h" />
     <ClInclude Include="Rain.h" />
     <ClInclude Include="RainCloud.h" />
@@ -196,7 +197,6 @@
     <ClCompile Include="MonkeyOlivander_k.cpp" />
     <ClCompile Include="Pearl.cpp" />
     <ClCompile Include="Pearl.h" />
-    <ClCompile Include="Position.cpp" />
     <ClCompile Include="Props.cpp" />
     <ClCompile Include="Rain.cpp" />
     <ClCompile Include="RainCloud.cpp" />

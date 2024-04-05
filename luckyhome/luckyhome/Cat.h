@@ -6,7 +6,7 @@
 #include "../luckyhome/Thing.h"
 #include "../luckyhome/Empty.h"
 #include"../luckyhome/Milk.h"
-#include"../luckyhome/Position.h"
+//#include"../luckyhome/Position.h"
 #include <vector>
 
 class Cat : public Thing {

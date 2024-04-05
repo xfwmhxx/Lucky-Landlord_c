@@ -13,32 +13,32 @@ int Magickey::calculateMoney(std::vector<Thing*>& category) {
             price += 150;
             category[i] = new Empty();
             // OwnPosition 即这个元素自己的位置
-            int OP = (position.getRow() * 5) + position.getColumn();
-            category[OP] = new Empty();
+            /*int OP = (position.getRow() * 5) + position.getColumn();
+            category[OP] = new Empty();*/
             break;
         }
         if (category[i]->getName() == "lockbox" && isNear(i, position)) {
             price += 45;
             category[i] = new Empty();
             // OwnPosition 即这个元素自己的位置
-            int OP = (position.getRow() * 5) + position.getColumn();
-            category[OP] = new Empty();
+            /*int OP = (position.getRow() * 5) + position.getColumn();
+            category[OP] = new Empty();*/
             break;
         }
         if (category[i]->getName() == "hugetreasure" && isNear(i, position)) {
             price += 300;
             category[i] = new Empty();
             // OwnPosition 即这个元素自己的位置
-            int OP = (position.getRow() * 5) + position.getColumn();
-            category[OP] = new Empty();
+            /*int OP = (position.getRow() * 5) + position.getColumn();
+            category[OP] = new Empty();*/
             break;
         }
         if (category[i]->getName() == "steelsafe" && isNear(i, position)) {
             price += 90;
             category[i] = new Empty();
             // OwnPosition 即这个元素自己的位置
-            int OP = (position.getRow() * 5) + position.getColumn();
-            category[OP] = new Empty();
+            /*int OP = (position.getRow() * 5) + position.getColumn();
+            category[OP] = new Empty();*/
             break;
         }
     }
@@ -49,14 +49,15 @@ Magickey* Magickey::createNewItem() {
     return new Magickey();
 }
 
-void Magickey::setPosition(Position newPosition) {
+void Magickey::setPosition(int newPosition) {
     position = newPosition;
 }
 
-bool Magickey::isNear(int index, Position position) {
-    int row = position.getRow();
+bool Magickey::isNear(int index, int position) {
+    /*int row = position.getRow();
     int column = position.getColumn();
     int indexRow = index / 5;
     int indexColumn = index % 5;
-    return (std::abs(row - indexRow) <= 1 && std::abs(column - indexColumn) <= 1);
+    return (std::abs(row - indexRow) <= 1 && std::abs(column - indexColumn) <= 1);*/
+    return false;
 }

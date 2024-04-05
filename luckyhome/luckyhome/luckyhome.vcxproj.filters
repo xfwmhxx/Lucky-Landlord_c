@@ -63,9 +63,6 @@
     <ClInclude Include="Bee.h">
       <Filter>头文件\Things_h</Filter>
     </ClInclude>
-    <ClInclude Include="Position.h">
-      <Filter>头文件\Event</Filter>
-    </ClInclude>
     <ClInclude Include="Bubble.h">
       <Filter>头文件\Things_h</Filter>
     </ClInclude>
@@ -188,12 +185,6 @@
     <ClCompile Include="RainCloud_k.cpp">
       <Filter>源文件\Essences</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Position.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="Bee.cpp">
       <Filter>源文件\Things</Filter>
     </ClCompile>
@@ -268,6 +259,9 @@
     </ClCompile>
     <ClCompile Include="Treasure.cpp">
       <Filter>源文件\Things</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -8,3 +8,9 @@ MonkeyOlivander_k::MonkeyOlivander_k() {
     setCounter(1);
     setAccumulator(0);
 }
+
+
+
+MonkeyOlivander_k* MonkeyOlivander_k::createNewItem() {
+    return new MonkeyOlivander_k();
+}

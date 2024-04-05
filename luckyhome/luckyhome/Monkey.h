@@ -6,20 +6,19 @@
 #include "../luckyhome/Thing.h"
 #include "../luckyhome/Coconut.h"
 #include "../luckyhome/Halfcoconut.h"
-#include "../luckyhome/Position.h"
 #include <vector>
 
 class Monkey : public Thing {
 private:
-    Position position;
+    int position;
 
 public:
     Monkey();
 
     int calculateMoney(std::vector<Thing*>& category, std::vector<Thing*>& playerScene);
     Monkey* createNewItem();
-    void setPosition(Position newPosition);
-    bool isNear(int index, Position position);
+    void setPosition(int newPosition);
+    bool isNear(int index, int position);
 };
 
 #endif // MONKEY_H

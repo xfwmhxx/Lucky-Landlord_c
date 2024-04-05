@@ -20,14 +20,15 @@ Rain* Rain::createNewItem() {
     return new Rain();
 }
 
-void Rain::setPosition(Position newPosition) {
+void Rain::setPosition(int newPosition) {
     position = newPosition;
 }
 
-bool Rain::isNear(int index, Position position) {
-    int row = position.getRow();
+bool Rain::isNear(int index, int position) {
+    /*int row = position.getRow();
     int column = position.getColumn();
     int indexRow = index / 5;
     int indexColumn = index % 5;
-    return (std::abs(row - indexRow) <= 1 && std::abs(column - indexColumn) <= 1);
+    return (std::abs(row - indexRow) <= 1 && std::abs(column - indexColumn) <= 1);*/
+    return false;
 }
