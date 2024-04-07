@@ -1,7 +1,7 @@
 ﻿  main.cpp
-D:\luckhome\luckyhome\luckyhome\main.cpp(51,6): warning C4101: “dayCount”: 未引用的局部变量
-D:\luckhome\luckyhome\luckyhome\main.cpp(50,6): warning C4101: “playergold”: 未引用的局部变量
-D:\luckhome\luckyhome\luckyhome\main.cpp(54,6): warning C4101: “essenceCount”: 未引用的局部变量
-D:\luckhome\luckyhome\luckyhome\main.cpp(52,6): warning C4101: “deleteCount”: 未引用的局部变量
-D:\luckhome\luckyhome\luckyhome\main.cpp(53,6): warning C4101: “refreshCount”: 未引用的局部变量
+D:\luckhome\luckyhome\luckyhome\main.cpp(64,6): warning C4101: “dayCount”: 未引用的局部变量
+D:\luckhome\luckyhome\luckyhome\main.cpp(63,6): warning C4101: “playergold”: 未引用的局部变量
+D:\luckhome\luckyhome\luckyhome\main.cpp(67,6): warning C4101: “essenceCount”: 未引用的局部变量
+D:\luckhome\luckyhome\luckyhome\main.cpp(65,6): warning C4101: “deleteCount”: 未引用的局部变量
+D:\luckhome\luckyhome\luckyhome\main.cpp(66,6): warning C4101: “refreshCount”: 未引用的局部变量
   luckyhome.vcxproj -> D:\luckhome\luckyhome\x64\Debug\luckyhome.exe

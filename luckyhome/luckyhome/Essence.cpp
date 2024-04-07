@@ -46,3 +46,27 @@ int Essence::getAccumulator() {
 void Essence::setAccumulator(int Accumulator) {
 	this->Accumulator = Accumulator;
 }
+
+bool Essence::Dodelete() {
+	if (this->Accumulator == this->counter) {
+		return 1;//输出1就代表这个符号可以被删除了
+	}
+	return 0;
+}
+
+
+//虚函数部分
+
+int Essence::calculateMoney(int count) {
+	return 0;
+	//因为有的类用不到这个函数，所以默认返回0
+}
+
+int Essence::calculateMoney(vector<Thing*>category) {
+	return 0;
+	//因为有的类用不到这个函数，所以默认返回0
+}
+
+Essence* Essence::createNewItem() {
+	return new Essence();
+}

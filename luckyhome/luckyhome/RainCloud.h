@@ -10,8 +10,8 @@ class RainCloud : public Props {
 public:
     RainCloud();
 
-    int calculateMoney(vector<Thing*>category);
-    RainCloud* createNewItem();
+    int calculateMoney(vector<Thing*>category) override;
+    RainCloud* createNewItem() override;
 };
 
 #endif  // RAINCLOUD_H

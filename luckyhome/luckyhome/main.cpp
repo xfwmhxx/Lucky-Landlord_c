@@ -43,6 +43,19 @@
 #include"../luckyhome/Sun.h"
 #include"../luckyhome/Treasure.h"
 
+//导入道具删除存储函数
+#include"../luckyhome/PropsDelete.h"
+
+
+
+
+
+
+
+
+//导入精华删除存储函数
+#include"../luckyhome/EssenceDelete.h"
+
 
 using namespace std;
 
@@ -62,6 +75,7 @@ int main() {
 	vector<Props*>deadScene;//已经消除过的道具
 	vector<Essence*>deadEssence;//已经消除过的精华
 	vector<Thing*>punchboardItem;//老虎机中的物品
+	vector<int>Rent;//存储玩家每关要缴纳的房租
 
 	//物品初始化
 	initalizeItem.push_back(new Bee());
@@ -88,24 +102,59 @@ int main() {
 	initalizeItem.push_back(new Strawberry());
 	initalizeItem.push_back(new Sun());
 	initalizeItem.push_back(new Treasure());
+
 	//道具初始化
 	initalizeScene.push_back(new BlackPepper());
 	initalizeScene.push_back(new GreenPepper());
 	initalizeScene.push_back(new LockRemover());
 	initalizeScene.push_back(new MonkeyOlivander());
 	initalizeScene.push_back(new RainCloud());
+
 	//精华初始化
 	initalizeEssence.push_back(new BlackPepper_k());
 	initalizeEssence.push_back(new GreenPepper_k());
 	initalizeEssence.push_back(new LockRemover_k());
-	initalizeEssence.push_back(new MonkeyOlivander_k());
-	initalizeEssence.push_back(new RainCloud_k());
+	//以下两个的删除函数不知道怎么弄。暂时不加入
+	//initalizeEssence.push_back(new MonkeyOlivander_k());
+	//initalizeEssence.push_back(new RainCloud_k());
+
 	//老虎机中的物品初始化(一开始有五个)
 	punchboardItem.push_back(new Cat());
 	punchboardItem.push_back(new Coin()); 
 	punchboardItem.push_back(new Bee());
 	punchboardItem.push_back(new Pearl());
 	punchboardItem.push_back(new Flower());
-	cout << 1;
+
+	//每关要缴纳的房租的初始化,总共12关
+	Rent.push_back(25);
+	Rent.push_back(50);
+	Rent.push_back(100);
+	Rent.push_back(150);
+	Rent.push_back(225);
+	Rent.push_back(275);
+	Rent.push_back(375);
+	Rent.push_back(450);
+	Rent.push_back(575);
+	Rent.push_back(650);
+	Rent.push_back(700);
+	Rent.push_back(777);
+	
+
+
+	//函数主功能部分
+	//道具删除和存储
+	PropsDelete(&playerScene, &deadScene);
+	//bug：：对于猴子这个道具用这个函数还判断不了
+
+
+	//精华删除和存储
+	EssenceDelete(&playerEssence, &deadEssence);
+	//bug::最后两个精华的问题没解决
+
+
+	cout << initalizeEssence[0]->calculateMoney(1) << endl;
+	cout << initalizeScene[0]->getName() << endl;
+	cout << initalizeScene[1]->getName() << endl; 
+	cout << "欢迎来到幸运房东！";
 	return 0;
 }

@@ -46,3 +46,16 @@ int Props::getAccumulator() {
 void Props::setAccumulator(int Accumulator) {
 	this->Accumulator = Accumulator;
 }
+
+//Ðéº¯Êý²¿·Ö
+int Props::calculateMoney(int count) {
+	return 0;
+
+}
+int Props::calculateMoney(vector<Thing*>category) {
+	return 0;
+}
+Props* Props::createNewItem() {
+	return new Props();
+
+}

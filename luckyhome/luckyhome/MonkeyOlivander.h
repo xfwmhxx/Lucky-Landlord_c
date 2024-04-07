@@ -10,7 +10,7 @@ class MonkeyOlivander : public Props {
 public:
     MonkeyOlivander();
 
-    MonkeyOlivander* createNewItem();
+    MonkeyOlivander* createNewItem() override;
 };
 
 #endif  // MONKEYOLIVANDER_H

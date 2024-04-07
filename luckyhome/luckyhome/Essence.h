@@ -4,6 +4,8 @@
 #include<map>
 #include<string>
 #include<iostream>
+#include"../luckyhome/Thing.h"
+#include<vector>
 using namespace std;
 //关于精华的类
 class Essence {
@@ -38,6 +40,13 @@ public:
 	int getAccumulator();
 	void setAccumulator(int Accumulator);
 
+	bool Dodelete();//用来判断当前符号是否应该被删除
+
+	virtual int calculateMoney(int count);
+	// 物品的成员函数实现
+	virtual int calculateMoney(vector<Thing*>category);
+
+	virtual Essence* createNewItem();
 };
 
 #endif

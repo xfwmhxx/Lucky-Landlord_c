@@ -34,6 +34,12 @@
     <Filter Include="头文件\Essences_h">
       <UniqueIdentifier>{7cae6ef0-9ae7-4b04-af2b-bd84e100f1de}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\Normal_function_h">
+      <UniqueIdentifier>{525c5087-1a22-42a9-973c-a939bd34f931}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Normal_function">
+      <UniqueIdentifier>{8a1e46b5-db76-49ee-98bb-1bc68c9b5a64}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Essence.h">
@@ -143,6 +149,12 @@
     </ClInclude>
     <ClInclude Include="RainCloud_k.h">
       <Filter>头文件\Essences_h</Filter>
+    </ClInclude>
+    <ClInclude Include="PropsDelete.h">
+      <Filter>头文件\Normal_function_h</Filter>
+    </ClInclude>
+    <ClInclude Include="EssenceDelete.h">
+      <Filter>头文件\Normal_function_h</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -262,6 +274,12 @@
     </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PropsDelete.cpp">
+      <Filter>源文件\Normal_function</Filter>
+    </ClCompile>
+    <ClCompile Include="EssenceDelete.cpp">
+      <Filter>源文件\Normal_function</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

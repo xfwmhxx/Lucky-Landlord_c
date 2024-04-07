@@ -139,6 +139,7 @@
     <ClInclude Include="Cow.h" />
     <ClInclude Include="Empty.h" />
     <ClInclude Include="Essence.h" />
+    <ClInclude Include="EssenceDelete.h" />
     <ClInclude Include="Fish.h" />
     <ClInclude Include="Flower.h" />
     <ClInclude Include="Goldegg.h" />
@@ -157,6 +158,7 @@
     <ClInclude Include="MonkeyOlivander_k.h" />
     <ClInclude Include="MonkeyOlivander.h" />
     <ClInclude Include="Props.h" />
+    <ClInclude Include="PropsDelete.h" />
     <ClInclude Include="Rain.h" />
     <ClInclude Include="RainCloud.h" />
     <ClInclude Include="RainCloud_k.h" />
@@ -177,6 +179,7 @@
     <ClCompile Include="Cow.cpp" />
     <ClCompile Include="Empty.cpp" />
     <ClCompile Include="Essence.cpp" />
+    <ClCompile Include="EssenceDelete.cpp" />
     <ClCompile Include="Fish.cpp" />
     <ClCompile Include="Flower.cpp" />
     <ClCompile Include="Goldegg.cpp" />
@@ -198,6 +201,7 @@
     <ClCompile Include="Pearl.cpp" />
     <ClCompile Include="Pearl.h" />
     <ClCompile Include="Props.cpp" />
+    <ClCompile Include="PropsDelete.cpp" />
     <ClCompile Include="Rain.cpp" />
     <ClCompile Include="RainCloud.cpp" />
     <ClCompile Include="RainCloud_k.cpp" />

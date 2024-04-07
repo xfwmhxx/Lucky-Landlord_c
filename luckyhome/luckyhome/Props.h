@@ -4,6 +4,8 @@
 #include<map>
 #include<string>
 #include<iostream>
+#include<vector>
+#include"../luckyhome/Thing.h"
 using namespace std;
 //关于道具的类
 class Props {
@@ -37,6 +39,10 @@ public:
 	int getAccumulator();
 	void setAccumulator(int Accumulator);
 
+
+	virtual int calculateMoney(int count);
+	virtual int calculateMoney(vector<Thing*>category);
+	virtual Props* createNewItem();
 };
 
 #endif

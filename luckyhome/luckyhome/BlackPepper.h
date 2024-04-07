@@ -14,8 +14,8 @@ class BlackPepper : public Props {
 public:
     BlackPepper();
 
-    int calculateMoney(int count) ;
-    BlackPepper* createNewItem() ;
+    int calculateMoney(int count) override;
+    BlackPepper* createNewItem() override;
 
     // 其他成员函数和成员变量...
 };

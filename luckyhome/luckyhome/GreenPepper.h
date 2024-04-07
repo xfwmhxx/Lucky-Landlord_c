@@ -12,8 +12,8 @@ class GreenPepper : public Props {
 public:
     GreenPepper();
 
-    int calculateMoney(vector<Thing*>category);
-    GreenPepper* createNewItem();
+    int calculateMoney(vector<Thing*>category) override;
+    GreenPepper* createNewItem() override;
 };
 
 #endif // GREY_PEPPER_H

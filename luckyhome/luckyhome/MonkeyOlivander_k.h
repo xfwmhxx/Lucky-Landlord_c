@@ -10,7 +10,7 @@ public:
     MonkeyOlivander_k();
     //int calculateMoney(vector<Thing*>category);
     //bool Dodelete();//用来判断当前符号是否应该被删除
-    MonkeyOlivander_k* createNewItem();
+    MonkeyOlivander_k* createNewItem() override;
 };
 
 #endif // MONKEYOLIVANDER_K_H

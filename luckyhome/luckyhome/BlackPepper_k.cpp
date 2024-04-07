@@ -15,12 +15,12 @@ int BlackPepper_k::calculateMoney(int count) {
     return value;
 }
 
-bool BlackPepper_k::Dodelete() {
+/*bool BlackPepper_k::Dodelete() {
     if (this->Accumulator == this->counter) {
         return 1;//输出1就代表这个符号可以被删除了
     }
     return 0;
-}
+}*/
 
 BlackPepper_k* BlackPepper_k::createNewItem() {
     return new BlackPepper_k();

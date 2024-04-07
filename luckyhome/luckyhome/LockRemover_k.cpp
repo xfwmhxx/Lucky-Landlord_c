@@ -62,12 +62,12 @@ int LockRemover_k::calculateMoney(vector<Thing*>category) {
     return value;
 }
 
-bool LockRemover_k::Dodelete() {
+/*bool LockRemover_k::Dodelete() {
     if (this->Accumulator == this->counter) {
         return 1;
     }
     return 0;
-}
+}*/
 
 LockRemover_k* LockRemover_k::createNewItem() {
     return new LockRemover_k();

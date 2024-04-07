@@ -15,9 +15,9 @@ class LockRemover : public Props {
 public:
     LockRemover();
 
-    int calculateMoney(vector<Thing*>category);
+    int calculateMoney(vector<Thing*>category) override;
 
-    LockRemover* createNewItem();
+    LockRemover* createNewItem() override;
 };
 
 #endif

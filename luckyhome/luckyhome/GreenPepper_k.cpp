@@ -35,12 +35,12 @@ int GreenPepper_k::calculateMoney(vector<Thing*>category) {
 	return value;
 }
 
-bool GreenPepper_k::Dodelete() {
+/*bool GreenPepper_k::Dodelete() {
 	if (this->Accumulator == this->counter) {
 		return 1;
 	}
 	return 0;
-}
+}*/
 
 GreenPepper_k* GreenPepper_k::createNewItem() {
     return new GreenPepper_k();
