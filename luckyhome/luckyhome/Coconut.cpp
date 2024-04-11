@@ -6,28 +6,28 @@ Coconut::Coconut() {
     setDescribe("价值2金币,被消除后给予10金币");
 }
 
-int Coconut::calculateMoney(std::vector<Thing*> category) {
-    int price = 1;
+int Coconut::calculateMoney(std::vector<Thing*>* category, std::vector<Thing*>* playerItem) {
+    int value = 1;
     for (int i = 0; i < 20; i++) {
-        if (category[i]->getName() == "monkey" && isNear(i, this->getPosition())) {
-            price += 9;
-            category[position] = new Halfcoconut(); // 添加半个椰子
+        if ((*category)[i]->getName() == "monkey" && isNear(i, this->getPosition())) {
+            value += 9;
+            (*category)[position] = new Halfcoconut(); // 添加半个椰子
+            (*playerItem).push_back(new Halfcoconut());
         }
     }
-    return price;
+    return value;
 }
 
 bool Coconut::isNear(int position1, int position2) {
-    // 检查两个位置是否相邻的逻辑实现
-    // 返回 true 或 false
+    if (abs(position1 - position2) == 6 || abs(position1 - position2) == 5 || abs(position1 - position2) == 4 || abs(position1 - position2) == 1)
+        return true;
     return false;
 }
 
-int Coconut::getPosition() {
-    // 获取位置的逻辑实现
-    // 返回位置值
-    return position;
-}
+//void Coconut::setPosition(int newposition) {
+//
+//    position = newposition;
+//}
 
 Coconut* Coconut::createNewItem() {
     return new Coconut();

@@ -7,10 +7,13 @@
 #include <vector>
 
 class Flower : public Thing {
+private:
+    int position;
 public:
     Flower();
-    int calculateMoney(vector<Thing*> category);
-    Flower* createNewItem();
+    int calculateMoney(vector<Thing*> category) override;
+    Flower* createNewItem() override;
+    bool isNear(int position1, int position2) override;
 
 
 };

@@ -13,11 +13,13 @@ public:
 
     Bee();
 
-    int calculateMoney(vector<Thing*> category);
+    int calculateMoney(vector<Thing*> category) override;
 
-    bool isNear(int index, int position);
+    bool isNear(int position1, int position2) override;
 
-    Bee* createNewItem();
+    Bee* createNewItem() override;
+    
+    //void setPosition(int newposition) override;
 
 
 };

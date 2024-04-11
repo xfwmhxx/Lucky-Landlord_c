@@ -7,15 +7,18 @@ Cat::Cat(){
 
 }
 
-int Cat::calculateMoney(std::vector<Thing*> category) {
-    int price = 1;
+int Cat::calculateMoney(std::vector<Thing*>* category) {
+    int value = 1;
     for (int i = 0; i < 20; i++) {
-        if (category[i]->getName() == "milk" && isNear(i, this->getPosition())) {
-            price += 9;
-            category[i] = new Empty(); // 消除牛奶
+        if ((*category)[i]->getName() == "milk" && isNear(i, this->getPosition())) {
+            value += 9;
+            delete (*category)[i];//释放指针
+            (*category)[i] = new Empty(); // 消除牛奶
         }
     }
-    return price;
+    //测试
+    cout << "1";
+    return value;
 }
 
 Cat* Cat::createNewItem() {
@@ -23,16 +26,11 @@ Cat* Cat::createNewItem() {
 }
 
 bool Cat::isNear(int position1, int position2) {
-    //int row = position.getRow();//问题行
-    //int column = position.getColumn();
-    //int indexRow = index / 5;
-    //int indexColumn = index % 5;
-    //return (abs(row - indexRow) <= 1 && abs(column - indexColumn) <= 1);
-    return 0;
+    if (abs(position1 - position2) == 6 || abs(position1 - position2) == 5 || abs(position1 - position2) == 4 || abs(position1 - position2) == 1)
+        return true;
+    return false;
 }
 
-int Cat::getPosition() {
-    // 获取位置的逻辑实现
-    // 返回位置值
-    return position;
-}
+//void Cat::setPosition(int newposition) {
+//    position = newposition;
+//}

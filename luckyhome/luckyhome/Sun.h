@@ -15,10 +15,10 @@ private:
 public:
     Sun();
 
-    int calculateMoney(std::vector<Thing*>& category);
-    Sun* createNewItem();
-    void setPosition(int newPosition);
-    bool isNear(int index, int position);
+    int calculateMoney(std::vector<Thing*>* category) override;
+    Sun* createNewItem() override;
+    //void setPosition(int newPosition);
+    bool isNear(int position1, int position2) override;
 };
 
 #endif // SUN_H

@@ -9,8 +9,8 @@
 class Lockbox : public Thing {
 public:
     Lockbox();
-    int calculateMoney(vector<Thing*>& category);
-    Lockbox* createNewItem();
+    int calculateMoney(vector<Thing*>* category) override;
+    Lockbox* createNewItem() override;
 
 
 };

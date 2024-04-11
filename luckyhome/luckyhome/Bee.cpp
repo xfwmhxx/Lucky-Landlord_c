@@ -9,18 +9,22 @@ Bee::Bee(){
 int Bee::calculateMoney(std::vector<Thing*> category) {
     int value = 1;
     for (int i = 0; i < 20; i++) {
-        if (category[i]->getName() == "flower" && isNear(i, position)) {
-            value += 2;
+        if (category[i]->getName() == "flower" && isNear(i, this->getPosition())) {
+            value += 1;
         }
     }
     return value;
 }
 
-bool Bee::isNear(int index, int position) {
-    // 根据需求实现判断物品是否相邻的逻辑
-    // 如果相邻，返回true；否则返回false
+bool Bee::isNear(int position1, int position2) {//position1为本物品的位置, position2为需判断位置
+    if (abs(position1 - position2) == 6 || abs(position1 - position2) == 5 || abs(position1 - position2) == 4 || abs(position1 - position2) == 1)
+        return true;
     return false;
 }
+
+//void Bee::setPosition(int newposition) {
+//    position = newposition;
+//}
 
 Bee* Bee::createNewItem() {
     return new Bee();

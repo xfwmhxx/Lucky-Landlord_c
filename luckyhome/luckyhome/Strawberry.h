@@ -14,11 +14,11 @@ private:
 public:
     Strawberry();
 
-    int calculateMoney(std::vector<Thing*>& category);
-    Strawberry* createNewItem();
-    void setPosition(int newPosition);
-    int getPosition();
-    bool isNear(int index, int position);
+    int calculateMoney(std::vector<Thing*>* category) override;
+    Strawberry* createNewItem() override;
+    //void setPosition(int newPosition);
+    //int getPosition();
+    bool isNear(int position1, int position2) override;
 };
 
 #endif // STRAWBERRY_H

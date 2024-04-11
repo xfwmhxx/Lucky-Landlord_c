@@ -15,10 +15,10 @@ private:
 public:
     Magickey();
 
-    int calculateMoney(std::vector<Thing*>& category);
-    Magickey* createNewItem();
-    void setPosition(int newPosition);
-    bool isNear(int index, int position);
+    int calculateMoney(std::vector<Thing*>* category ) override;
+    Magickey* createNewItem() override;
+    //void setPosition(int newPosition);
+    bool isNear(int position1, int position2) override;
 };
 
 #endif // !MAGICKEY_H

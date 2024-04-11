@@ -8,7 +8,7 @@
 class GreenPepper_k : public Essence {
 public:
     GreenPepper_k();
-    int calculateMoney(vector<Thing*>category) override;
+    int calculateMoney(vector<Thing*>* category) override;
     //bool Dodelete();//用来判断当前符号是否应该被删除
     GreenPepper_k* createNewItem() override;
 };

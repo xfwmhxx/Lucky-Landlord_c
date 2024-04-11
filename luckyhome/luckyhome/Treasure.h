@@ -9,8 +9,8 @@
 class Treasure : public Thing {
 public:
     Treasure();
-    int calculateMoney(vector<Thing*>& category);
-    Treasure* createNewItem();
+    int calculateMoney(vector<Thing*>* category) override;
+    Treasure* createNewItem() override;
 
 };
 

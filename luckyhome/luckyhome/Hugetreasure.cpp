@@ -6,7 +6,7 @@ Hugetreasure::Hugetreasure() {
     setDescribe("价值100枚金币,可以被钥匙消除");
 }
 
-int Hugetreasure::calculateMoney(vector<Thing*>& category) {
+int Hugetreasure::calculateMoney(vector<Thing*>* category) {
     return 1;
 }
 

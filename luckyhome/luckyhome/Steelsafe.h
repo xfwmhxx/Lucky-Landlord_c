@@ -9,8 +9,8 @@
 class Steelsafe : public Thing {
 public:
     Steelsafe();
-    int calculateMoney(vector<Thing*>& category);
-    Steelsafe* createNewItem();
+    int calculateMoney(vector<Thing*>* category) override;
+    Steelsafe* createNewItem() override;
 
 
 };

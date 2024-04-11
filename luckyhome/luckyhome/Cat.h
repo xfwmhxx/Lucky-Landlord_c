@@ -14,10 +14,10 @@ private:
     int position;
 public:
     Cat();
-    int calculateMoney(vector<Thing*> category);
-    Cat* createNewItem();
-    bool isNear(int position1, int position2);
-    int getPosition();
+    int calculateMoney(std::vector<Thing*>* category) override;
+    Cat* createNewItem() override;
+    bool isNear(int position1, int position2) override;
+    //void setPosition(int newposition);
 
 
 

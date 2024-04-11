@@ -9,8 +9,8 @@
 class Hugetreasure : public Thing {
 public:
     Hugetreasure();
-    int calculateMoney(vector<Thing*>& category);
-    Hugetreasure* createNewItem();
+    int calculateMoney(vector<Thing*>* category) override;
+    Hugetreasure* createNewItem() override;
 
 
 };

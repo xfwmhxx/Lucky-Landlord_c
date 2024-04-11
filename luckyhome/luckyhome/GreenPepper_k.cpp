@@ -13,16 +13,16 @@ GreenPepper_k::GreenPepper_k() {
     setAccumulator(0);
 }
 
-int GreenPepper_k::calculateMoney(vector<Thing*>category) {
+int GreenPepper_k::calculateMoney(vector<Thing*>* category) {
 	int value = 0;
 	int cnt = 0;
 	for (int i = 0; i < 19; i++) {
 		cnt = 0;
-		if (category[i]->getName() == "empty") {
+		if ((*category)[i]->getName() == "empty") {
 			continue;//如果是空位就跳过
 		}
 		for (int j = i + 1; j < 20; j++) {
-			if (category[i]->getName() == category[j]->getName()) {
+			if ((*category)[i]->getName() == (*category)[j]->getName()) {
 				cnt++;
 			}
 		}

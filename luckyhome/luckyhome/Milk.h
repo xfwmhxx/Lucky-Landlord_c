@@ -10,8 +10,8 @@
 class Milk : public Thing {
 public:
     Milk();
-    int calculateMoney(vector<Thing*> category);
-    Milk* createNewItem();
+    int calculateMoney(vector<Thing*> category) override;
+    Milk* createNewItem() override;
 
 
 };

@@ -15,10 +15,10 @@ private:
 public:
     Key();
 
-    int calculateMoney(std::vector<Thing*>& category);
-    Key* createNewItem();
-    void setPosition(int newPosition);
-    bool isNear(int index, int position);
+    int calculateMoney(std::vector<Thing*>* category) override;
+    Key* createNewItem() override;
+    //void setPosition(int newPosition);
+    bool isNear(int position1, int position2) override;
 };
 
 #endif // !KEY_H

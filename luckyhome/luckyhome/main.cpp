@@ -46,16 +46,9 @@
 //导入道具删除存储函数
 #include"../luckyhome/PropsDelete.h"
 
-
-
-
-
-
-
-
 //导入精华删除存储函数
 #include"../luckyhome/EssenceDelete.h"
-
+#include"../luckyhome/thingTraversal.h"
 
 using namespace std;
 
@@ -76,6 +69,7 @@ int main() {
 	vector<Essence*>deadEssence;//已经消除过的精华
 	vector<Thing*>punchboardItem;//老虎机中的物品
 	vector<int>Rent;//存储玩家每关要缴纳的房租
+
 
 	//物品初始化
 	initalizeItem.push_back(new Bee());
@@ -125,6 +119,8 @@ int main() {
 	punchboardItem.push_back(new Pearl());
 	punchboardItem.push_back(new Flower());
 
+
+
 	//每关要缴纳的房租的初始化,总共12关
 	Rent.push_back(25);
 	Rent.push_back(50);
@@ -150,7 +146,6 @@ int main() {
 	//精华删除和存储
 	EssenceDelete(&playerEssence, &deadEssence);
 	//bug::最后两个精华的问题没解决
-
 
 	cout << initalizeEssence[0]->calculateMoney(1) << endl;
 	cout << initalizeScene[0]->getName() << endl;

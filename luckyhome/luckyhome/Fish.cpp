@@ -7,28 +7,29 @@ Fish::Fish() : Thing() {
     setDescribe("价值1枚金币，消除周围的泡泡，每消除一个泡泡，获得4枚金币");
 }
 
-int Fish::calculateMoney(std::vector<Thing*> category) {
-    int price = 1;
+int Fish::calculateMoney(std::vector<Thing*>* category) {
+    int value = 1;
     for (int i = 0; i < 20; i++) {
-        if (category[i]->getName() == "bubble" && isNear(i, this->getPosition())) {
-            price += 4;
-            category[i] = new Empty();
+        if ((*category)[i]->getName() == "bubble" && isNear(i, this->getPosition())) {
+            value += 4;
+            delete (*category)[i];//释放指针
+            (*category)[i] = new Empty();
         }
     }
-    return price;
+    return value;
 }
 
 Fish* Fish::createNewItem() {
     return new Fish();
 }
 
-bool Fish::isNear(int position, int fishPosition) {
-    // 检查两个位置是否相邻的逻辑实现
-    // 返回 true 或 false
+bool Fish::isNear(int position1, int position2) {
+    if (abs(position1 - position2) == 6 || abs(position1 - position2) == 5 || abs(position1 - position2) == 4 || abs(position1 - position2) == 1)
+        return true;
     return false;
 }
 
-int Fish::getPosition() {
-    // 返回鱼的位置
-    return position;
-}
+//void Fish::setPosition(int newpposition) {
+//    // 返回鱼的位置
+//    position = newposition;
+//}

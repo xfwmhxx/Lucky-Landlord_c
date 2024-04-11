@@ -10,8 +10,8 @@
 class Cow : public Thing {
 public:
     Cow();
-    int calculateMoney(vector<Thing*> category);
-    Cow* createNewItem();
+    int calculateMoney(vector<Thing*> category) override;
+    Cow* createNewItem() override;
 
 };
 

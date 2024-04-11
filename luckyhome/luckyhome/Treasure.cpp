@@ -6,7 +6,7 @@ Treasure::Treasure() {
     setDescribe("价值50枚金币,可以被钥匙消除");
 }
 
-int Treasure::calculateMoney(vector<Thing*>& category) {
+int Treasure::calculateMoney(vector<Thing*>* category) {
     return 1;
 }
 

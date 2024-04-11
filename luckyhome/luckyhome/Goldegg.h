@@ -9,8 +9,8 @@
 class Goldegg : public Thing {
 public:
     Goldegg();
-    int calculateMoney(vector<Thing*> category);
-    Goldegg* createNewItem();
+    int calculateMoney(vector<Thing*> category) override;
+    Goldegg* createNewItem() override;
 
 
 };

@@ -10,7 +10,7 @@
 class LockRemover_k : public Essence {
 public:
     LockRemover_k();
-    int calculateMoney(vector<Thing*>category) override;
+    int calculateMoney(vector<Thing*>* category) override;
     //bool Dodelete();//用来判断当前符号是否应该被删除
     LockRemover_k* createNewItem() override;
 };

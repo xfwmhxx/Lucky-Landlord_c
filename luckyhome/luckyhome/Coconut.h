@@ -12,10 +12,10 @@ private:
 public:
     Coconut();
 
-    int calculateMoney(std::vector<Thing*> category);
-    bool isNear(int position1, int position2);
-    int getPosition();
-    Coconut* createNewItem();
+    int calculateMoney(std::vector<Thing*>* category, std::vector<Thing*>* playerItem) override;
+    bool isNear(int position1, int position2) override;
+    //void setPosition(int newposition);
+    Coconut* createNewItem() override;
 };
 
 #endif // !COCONUT_H

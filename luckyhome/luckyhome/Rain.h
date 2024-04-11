@@ -16,10 +16,10 @@ private:
 public:
     Rain();
 
-    int calculateMoney(std::vector<Thing*>& category);
-    Rain* createNewItem();
-    void setPosition(int newPosition);
-    bool isNear(int index, int position);
+    int calculateMoney(std::vector<Thing*>* category) override;
+    Rain* createNewItem() override;
+    //void setPosition(int newPosition);
+    bool isNear(int position1, int position2) override;
 };
 
 #endif // RAIN_H

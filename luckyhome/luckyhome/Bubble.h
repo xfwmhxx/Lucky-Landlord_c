@@ -4,13 +4,16 @@
 #include <iostream>
 #include <string>
 #include "../luckyhome/Thing.h"
+#include "../luckyhome/Empty.h"
 #include <vector>
 
 class Bubble : public Thing {
 public:
     Bubble();
-    int calculateMoney(vector<Thing*> category);
-    Bubble* createNewItem();
+
+    int calculateMoney(std::vector<Thing*>* category, int counter, int counter_now) override;
+
+    Bubble* createNewItem() override;
 
 };
 

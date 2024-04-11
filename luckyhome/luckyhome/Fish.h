@@ -12,10 +12,10 @@ private:
     int position;
 public:
     Fish();
-    int calculateMoney(vector<Thing*> category);
-    Fish* createNewItem();
-    bool isNear(int position, int fishPosition);
-    int getPosition();
+    int calculateMoney(vector<Thing*>* category) override;
+    Fish* createNewItem() override;
+    bool isNear(int position, int fishPosition) override;
+    //void setPosition(int newposition);
 
 };
 

@@ -6,7 +6,7 @@ Pearl::Pearl() {
     setDescribe("¼ÛÖµ1Ã¶½ð±Ò");
 }
 
-int Pearl::calculateMoney(vector<Thing*>& category) {
+int Pearl::calculateMoney(vector<Thing*>category) {
     return 1;
 }
 
